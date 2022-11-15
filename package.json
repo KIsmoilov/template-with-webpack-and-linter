@@ -11,15 +11,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KIsmoilov/to-do-list-project-with-webpack.git"
+    "url": "#"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KIsmoilov/to-do-list-project-with-webpack/issues"
+    "url": "https://github.com/KIsmoilov/template-with-webpack-and-linter/issues"
   },
-  "homepage": "https://kismoilov.github.io/to-do-list-project-with-webpack/dist",
+  "homepage": "#",
   "dependencies": {
     "gh-pages": "^4.0.0",
     "lodash": "^4.17.21",
